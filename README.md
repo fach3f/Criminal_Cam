@@ -31,7 +31,7 @@ pip install opencv-python face-recognition pillow mysql-connector-python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/criminal-recognition-app.git
+git clone https://github.com/fach3f/criminal-recognition-app.git
 cd criminal-recognition-app
 ```
 
